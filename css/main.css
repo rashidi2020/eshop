@@ -40,3 +40,36 @@
 .language{
     padding: 5px 0 0 10px;
 }
+ 
+.headerinfo{
+    display: flex;
+    padding: 20px;
+  
+}
+.searchbox{
+    
+    flex-grow: 1;
+    display: flex;
+    height: 40px;
+    justify-content: center;
+}
+.categorylist{
+    border: none;
+    border-radius: 0 15px 15px 0;
+    padding: 8px 15px;
+}
+.search-input{
+    border: none;
+    padding: 8px 15px;
+  
+  
+}
+.btnsearch{
+
+    padding: 10px 15px;
+  color: #fff !important;
+    background-color: #f4a137;
+    border-radius: 20px 0 0 20px;
+
+   
+}
